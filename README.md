@@ -1,12 +1,12 @@
-![CI](https://github.com/team-gary/asdf-protoc-gen-grpc-gateway/workflows/CI/badge.svg)
+![CI](https://github.com/team-gary/asdf-protoc-gen-swagger/workflows/CI/badge.svg)
 
-# asdf-protoc-gen-grpc-gateway
-protoc-gen-grpc-gateway plugin for [asdf](https://github.com/asdf-vm/asdf) version manager
+# asdf-protoc-gen-swagger
+protoc-gen-swagger plugin for [asdf](https://github.com/asdf-vm/asdf) version manager
 
 ## Install
 
 ```
-asdf plugin-add protoc-gen-grpc-gateway https://github.com/team-gary/asdf-protoc-gen-grpc-gateway.git
+asdf plugin-add protoc-gen-swagger https://github.com/team-gary/asdf-protoc-gen-swagger.git
 ```
 
 ## Use
